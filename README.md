@@ -3,8 +3,6 @@ React Dashboards
 Colección de 3 paneles administrativos construidos con React, Tailwind CSS y Recharts.
 
 Proyectos
-
-Admin Panel
 Panel de control empresarial con tema oscuro.
 - Sidebar de navegación con estado activo
 - Tarjetas de métricas con indicadores de tendencia
